@@ -1,0 +1,84 @@
+.skill-table {
+        width: 40%;
+        border: 1px solid #f8f8f8;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 150%;
+  }
+  h1 {
+      color: black;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 500%;
+  }
+  .intro-para {
+      color: lightgray;
+      font-size: 200%;
+      font-family: 'Courier New', Courier, monospace;
+  }
+
+  .codechef {
+            background-color: black;
+            /* border: 2px solid white; */
+            color: orange;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 25px;
+            margin: 10px 30px;
+            cursor: pointer;
+        }
+  .codeforces {
+            background-color: black;
+            /* border: 2px solid white; */
+            color: blueviolet;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 25px;
+            margin: 10px 30px;
+            cursor: pointer; 
+        }
+  .hackerrank {
+            background-color: black;
+            /* border: 2px solid white; */
+            color: green;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 25px;
+            margin: 10px 30px;
+            cursor: pointer;
+        }
+  .stopstalk {
+            background-color: black;
+            /* border: 2px solid white; */
+            color: red;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 25px;
+            margin: 10px 30px;
+            cursor: pointer;
+        }
+  .head-buttons {
+            background-color: black;
+            
+            color: white;
+            padding: 5px 10px;
+            text-align: center;
+            display: inline-block;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 25px;
+            margin: 10px 30px;
+            cursor: pointer;
+        }
+  .edu {
+      width: 75%;
+        /* border: 1px solid #f8f8f8; */
+        color: lightgrey;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 150%;
+        }
